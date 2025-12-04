@@ -34,7 +34,7 @@ Focused on building modern web applications & solving real-world problems.
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-1A1F36?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,6 +46,7 @@ Focused on building modern web applications & solving real-world problems.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### **Database & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
@@ -53,13 +54,16 @@ Focused on building modern web applications & solving real-world problems.
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 
+
 ---
 
 ## 📫 How to Reach Me
 
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabalenuradnan6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabale-nur-adnan-733542260/)
+ <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](YOUR_PORTFOLIO_URL)-->
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Hacker.Boom.b)
 
 ---
 
