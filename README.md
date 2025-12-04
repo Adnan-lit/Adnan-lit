@@ -3,8 +3,8 @@
 
 ## 👋 Hi, I'm **Adnan**
 
-Aspiring **Full-Stack Developer** • CSE Student  
-Focused on building modern web applications & solving real-world problems.
+Aspiring **Software Developer & Researcher** • Full-Stack Developer • Computer Vision & HCI Enthusiast • CSE Student  
+Focused on building modern applications & solving real-world problems.
 
 </div>
 
@@ -21,39 +21,54 @@ Focused on building modern web applications & solving real-world problems.
 
 ## 🚀 What I'm Currently Working On
 
-- Improving my skills in **React**, **Laravel**, and **Node.js**  
-- Learning better **system design** & backend architecture  
-- Building real projects to strengthen my development experience  
+- Researching in the fields of **Computer Vision**, **Human–Computer Interaction (HCI)**, and **Green Computing**
+- Improving my full-stack skills with **Spring Boot**, **Node.js**, **Laravel** 
+- Learning modern **system design**, backend architecture, and scalable software patterns
+- Exploring **deep learning** & **AI solutions** for practical applications  
 
 ---
 
-## 🛠️ Tools & Technologies I Use
+## 🛠️ Tools & Technologies
 
-### **Programming Languages**
+### **Languages**
+![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C/C++-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-1A1F36?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-1A1F36?style=for-the-badge&logo=angular&logoColor=DD0031)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7B52AB?style=for-the-badge&logo=bootstrap&logoColor=white)
+### **Frontend / Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### **Backend**
+### **Backend / Frameworks**
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### **AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF0055?style=for-the-badge)
 
 ### **Database & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-008000?style=for-the-badge&logo=espressif&logoColor=white)
 
+---
+
+## 🎓 Research Interests
+
+- **Deepfake Detection & Media Forensics**  
+- **Energy-Efficient / Green Computing**  
+- **Human-Computer Interaction & User-Centered Design**  
+- **Computer Vision for Automation & Robotics**
 
 ---
 
@@ -68,7 +83,7 @@ Focused on building modern web applications & solving real-world problems.
 ---
 
 <div align="center">
-
-💬 *Thanks for visiting — feel free to reach out if you want to collaborate!*  
+ 
+💬 Thanks for visiting! Feel free to reach out for collaboration, internships, or research discussions.  
 
 </div>
